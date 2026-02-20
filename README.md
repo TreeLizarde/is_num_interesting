@@ -1,6 +1,6 @@
 # is_num_interesting
 
-Credit to  [user448810](https://stackoverflow.com/users/448810/user448810) for is_prime() from their reply to [this post](https://stackoverflow.com/questions/36522167/checking-primality-of-very-large-numbers-in-python).
+Credit to  [user448810](https://stackoverflow.com/users/448810/user448810) on stack overflow for is_prime(), from their reply to [this post](https://stackoverflow.com/questions/36522167/checking-primality-of-very-large-numbers-in-python).
 
 ## digit_trunc(number)
 Returns the last digit of a number.
