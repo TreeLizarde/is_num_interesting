@@ -28,8 +28,8 @@ Returns:
 
  ‡ For decrementing sequences, 0 should come after 1, and not before 9, as in 3210.
 
-## random_test(interval_start = 1, interval_end = 2**64):
-random_test() passes a random integer within an interval into is_num_interesting(), returning if the number was interesting or not.
+## `random_test(interval_start = 1, interval_end = 2**64)`:
+`random_test()` passes a random integer within an interval into `is_num_interesting()`, returning if the number was interesting or not.
 
 Parameters:
     - interval_start (int), inclusive
@@ -39,8 +39,8 @@ Returns:
     - True if the random number is interesting
     - False if the random number isn't interesting
 
-## random_test_until_true(interval_start = 1, interval_end = 2**64, max_randints_generated = 2**8):
-random_test_until_true() passes a random integer within an interval into is_num_interesting() repeatedly, returning the first interesting number found.
+## `random_test_until_true(interval_start = 1, interval_end = 2**64, max_randints_generated = 2**8)`:
+`random_test_until_true()` passes a random integer within an interval into `is_num_interesting()` repeatedly, returning the first interesting number found.
 
 Parameters:
     - interval_start (int), inclusive
