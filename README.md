@@ -2,10 +2,10 @@
 
 Credit to  [user448810](https://stackoverflow.com/users/448810/user448810) on stack overflow for is_prime(), from their reply to [this post](https://stackoverflow.com/questions/36522167/checking-primality-of-very-large-numbers-in-python).
 
-## digit_trunc(number)
+## `digit_trunc(number)`
 Returns the last digit of a number.
 
-## is_int_interesting(number, interesting_numbers = {})
+## `is_int_interesting(number, interesting_numbers = {})`
 (See below for a definition of an interesting number)
 
 Parameters:
