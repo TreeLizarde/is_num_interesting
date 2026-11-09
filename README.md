@@ -1,5 +1,7 @@
 # is_num_interesting
 
+An app which tells you if a number might be interesting (by my old standards). Note that it ignores the [interesting number paradox](https://en.wikipedia.org/wiki/Interesting_number_paradox).
+
 Credit to  [user448810](https://stackoverflow.com/users/448810/user448810) on stack overflow for is_prime(), from their reply to [this post](https://stackoverflow.com/questions/36522167/checking-primality-of-very-large-numbers-in-python).
 
 ## `digit_trunc(number)`
